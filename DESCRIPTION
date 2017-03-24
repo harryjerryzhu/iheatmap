@@ -1,0 +1,17 @@
+Package: Packzhu
+Type: Package
+Title: Haifeng private function
+Version: 0.1.0
+Author: Haifeng Zhu
+Maintainer: haifengzhu<zhuhf77@gmail.com>
+Description: Haifeng's private package
+License: What license is it under?
+LazyData: TRUE
+Depends: R
+Imports:
+  dplyr,
+  gdata,
+  plotly,
+  ggplot2,
+  reshape2,
+  dendextend
